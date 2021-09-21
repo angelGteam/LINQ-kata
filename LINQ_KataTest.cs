@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 using System.IO;
-
+// Si no añado algo no puedo hacer pull request
 [TestFixture]
 public class LINQ_KataTest
 {
