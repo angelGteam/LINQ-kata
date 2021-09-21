@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ-kata", "LINQ-kata.csproj", "{8A7671D5-1D32-42FE-A40B-23B4A4EB4A36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNUnit", "..\TestNUnit\TestNUnit.csproj", "{055EE28B-BB3F-40F6-BB89-F56CC1F436CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A7671D5-1D32-42FE-A40B-23B4A4EB4A36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7671D5-1D32-42FE-A40B-23B4A4EB4A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7671D5-1D32-42FE-A40B-23B4A4EB4A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7671D5-1D32-42FE-A40B-23B4A4EB4A36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{055EE28B-BB3F-40F6-BB89-F56CC1F436CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055EE28B-BB3F-40F6-BB89-F56CC1F436CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055EE28B-BB3F-40F6-BB89-F56CC1F436CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055EE28B-BB3F-40F6-BB89-F56CC1F436CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C290DD9-7272-4542-B9C2-E5FEA4E0ED06}
+	EndGlobalSection
+EndGlobal
